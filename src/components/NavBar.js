@@ -13,25 +13,25 @@ export default function NavBar() {
             className="inflex-flex items-center py-6 px-3 mr-4 text-blue-100 hover:text-yellow-500 text-4xl font-bold cursive tracking-widest"
             activeClassName="text-blue-100 bg-blue-700"
           >
-            Soto
+            JD
           </NavLink>
           <NavLink
             to="/post"
-            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-200 hover:text-yellow-500"
+            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-100 hover:text-yellow-500"
             activeClassName="text-blue-100 bg-blue-700"
           >
             Blog Posts
           </NavLink>
           <NavLink
             to="/project"
-            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-200 hover:text-yellow-500"
+            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-100 hover:text-yellow-500"
             activeClassName="text-blue-100 bg-blue-700"
           >
             Projects
           </NavLink>
           <NavLink
             to="/about"
-            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-200 hover:text-yellow-500"
+            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-100 hover:text-yellow-500"
             activeClassName="text-blue-100 bg-blue-700"
           >
             About Me
