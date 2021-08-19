@@ -13,7 +13,7 @@ export default function NavBar() {
             className="inflex-flex items-center py-6 px-3 mr-4 text-blue-100 hover:text-yellow-500 text-4xl font-bold cursive tracking-widest"
             activeClassName="text-blue-100 bg-blue-700"
           >
-            JD
+            John David
           </NavLink>
           <NavLink
             to="/post"
