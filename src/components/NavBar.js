@@ -36,6 +36,13 @@ export default function NavBar() {
           >
             About Me
           </NavLink>
+          <NavLink
+            to="/nasaphoto"
+            className="inline-flex items-center py-3 px-3 my-6 rounded text-blue-100 hover:text-yellow-500"
+            activeClassName="text-blue-100 bg-blue-700"
+          >
+            NASA Photo
+          </NavLink>
         </nav>
         <div className="inline-flex py-6 px-3 mx-6">
           <SocialIcon
