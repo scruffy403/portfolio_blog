@@ -48,6 +48,7 @@ export default function NavBar() {
           <SocialIcon
             url="https://twitter.com/JohnDavidSoto1"
             className="mr-4"
+            rel="noopener"
             target="_blank"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
@@ -55,6 +56,7 @@ export default function NavBar() {
           <SocialIcon
             url="https://www.instagram.com/scruffy403/"
             className="mr-4"
+            rel="noopener"
             target="_blank"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
@@ -62,6 +64,7 @@ export default function NavBar() {
           <SocialIcon
             url="https://www.facebook.com/johndavid.soto.3"
             className="mr-4"
+            rel="noopener"
             target="_blank"
             fgColor="#fff"
             style={{ height: 35, width: 35 }}
