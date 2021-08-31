@@ -2,19 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext');
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:regular,bold,italic&subset=latin,latin-ext");
 
 .cursive {
-    font-family: "Amatic SC", cursive;
-    font-weight: 700;
+  font-family: "Amatic SC", cursive;
+  font-weight: 700;
 }
 
 .prose img {
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
 }
 
 .home-name {
-    font-size: 150px;
+  font-size: 50px;
 }
