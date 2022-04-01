@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import image from "../guitar.1280.jpg";
 
 export default function About() {
